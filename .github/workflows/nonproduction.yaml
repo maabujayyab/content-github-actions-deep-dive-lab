@@ -26,10 +26,10 @@ jobs:
         with:
           token: ${{ github.token }}
 
-  build:
-    runs-on: ubuntu-latest
-
-  upload:
-    runs-on: ubuntu-latest
+#  build:
+#    runs-on: ubuntu-latest
+#
+#  upload:
+#    runs-on: ubuntu-latest
 
 
